@@ -5,7 +5,7 @@
 #### I'm a iOS Engineer 🥸💻📲
 
 - 🔭 Developing some bugs in Swift.
-- 🌱 Currently focus at improve knowledge on Unit/UI Tests and SwiftUI with Combine.
+- 🌱 Currently focus at improve knowledge in SwiftUI with Combine.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I listen anime openings when i go out for a run =p 
 
